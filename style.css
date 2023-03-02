@@ -1,0 +1,45 @@
+body{
+    background-color:blanchedalmond;
+}
+.name {
+   
+    background-color: rgba(152, 207, 227, 0.4);
+   
+    font-family: "Courier New", Courier, monospace;
+    font-weight:bolder;
+   color:navy;
+    font-size: 18px;
+  }
+.details
+{
+    
+    background-color: rgba(152, 207, 227, 0.4);
+   
+    font-family: "Courier New", Courier, monospace;
+    font-weight:bolder;
+   color: navy;
+    font-size: 18px;
+}
+.ran
+{
+    
+   
+    background-color: rgba(152, 207, 227, 0.4);
+   
+    font-family: "Courier New", Courier, monospace;
+    font-weight:bolder;
+   color: navy;
+    font-size: 18px;
+    
+}
+.cute
+{   
+    background-color: rgba(152, 207, 227, 0.4);
+   
+    font-family: "Courier New", Courier, monospace;
+    font-weight:bolder;
+   color: navy;
+    font-size: 18px;
+    
+    
+}
